@@ -1,0 +1,8 @@
+{
+  organism: "human"
+  genome: ["IGVF_hg38"]
+  input_fasta: ["/u/project/cluo/chliu/Genomes/IGVF_hg38/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa"]
+  input_gtf: ["/u/project/cluo/terencew/reference/hg38_igvf/gencode.v43.cellranger.final.gtf.gz"]
+  non_nuclear_contigs: ["chrM"]
+  input_motifs: "/u/project/cluo/terencew/reference/refdata-cellranger-arc-GRCh38-2020-A-2.0.0/regions/motifs.pfm"
+}
